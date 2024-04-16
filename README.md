@@ -10,7 +10,7 @@ DBMS 6th semester mini project on Flight Management System where user can effici
 
 **Back-end:** sqlite3 
 
-**Server:** Tkinter, Custom Tkinter
+**Front-end:** Tkinter, Custom Tkinter
 
 
 ## Run Locally
